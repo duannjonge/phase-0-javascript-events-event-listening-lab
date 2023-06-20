@@ -16,7 +16,6 @@ function addingEventListener(){
         alert('clickme')
     })
 
-// input=document.getElementById('button',addEventListener)
     
 }
 
